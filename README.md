@@ -10,4 +10,4 @@ Novaspirit did a great job and helped discover more things to do in the Adafruit
 Exploring the Consumer Control Code of the Adafruit librabry allowed me to add Play, Pause, Skip, etc and am going to try using some reburpased CD or Tape buttions to add more physical feeling to the buttons.  Make sure to call the Consumer Control library over Keyboard with the audio fuctions
 
 
-
+I added a Rick Rolled Macro action.  This was from Edge and Bing (I will defend it cause it's superior to Google and you know it)
